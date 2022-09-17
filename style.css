@@ -17,7 +17,7 @@ header {
 
 h1, h2{
     color: black;
-    text-shadow: #fff 4px 4px 4px;
+    text-shadow: #fff 2px 2px 2px;
 }
 
 
@@ -31,7 +31,6 @@ a {
     align-items: center;
     color: #fff;
     font-size: 20px;
-    font-family: 'Fira Code', monospace;
     font-weight: 500;
     text-decoration: none;
     margin-right: 30px;    
