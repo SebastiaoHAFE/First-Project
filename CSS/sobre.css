@@ -13,6 +13,7 @@ header {
 }
 
 h1, h2{
+    font-family: 'Press Start 2P', sans-serif;
     color: black;
     text-shadow: #fff 2px 2px 2px;
 }

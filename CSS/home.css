@@ -12,7 +12,8 @@ header {
     padding: 10px 20px;
 }
 
-h1, h2{
+h1 {
+    font-family: 'Press Start 2P', sans-serif;
     color: black;
     text-shadow: #fff 2px 2px 2px;
 }
@@ -64,4 +65,8 @@ footer {
     height: 75px;    
     text-align: center;
     line-height: 100px;
+}
+
+#title {
+    font-family: 'Press Start 2P', sans-serif;
 }
