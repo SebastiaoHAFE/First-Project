@@ -73,5 +73,12 @@ footer {
     font-family: 'Press Start 2P', sans-serif;
     font-size: 40px;
     color: #F25A70;
-    text-shadow: 10px 10px 0 #000;
+    text-shadow: 4px 4px 0 #000;
+}
+
+#title2 {
+    font-family: 'Press Start 2P', sans-serif;
+    font-size: 30px;
+    text-shadow: 4px 4px 0 #000;
+    color: #fff;
 }
