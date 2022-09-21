@@ -1,6 +1,5 @@
 .footer {
-    position: absolute;
-    bottom: 0%;
+    box-sizing: border-box;
     font-family: 'Press Start 2P', sans-serif;
     font-size: 25px;
     background-color: #7C5E99;
