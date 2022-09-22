@@ -9,4 +9,5 @@
     height: 75px;    
     text-align: center;
     line-height: 80px;
+    border-bottom: 10px solid #000;
 }
