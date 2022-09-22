@@ -14,7 +14,10 @@
 
 .title2 {
     font-family: 'Press Start 2P', sans-serif;
-    font-size: 20px;
-    color: black;
-    text-shadow: #fff 2px 2px 2px;
+    font-size: 40px;
+    color: #fff;
+    text-shadow: none;
+    text-align: center;
+    width: 400;
+    margin-top: 50px;
 }
