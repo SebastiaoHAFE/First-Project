@@ -1,0 +1,26 @@
+.section-project {
+    background-color: #000;
+    padding-top: 50px;
+    padding-bottom: 100px;
+    border-bottom: 10px solid #F25A70;
+}
+
+.section-project .card-project {
+    background-color: rgb(199, 178, 178);
+    box-shadow: 10px 10px 0 #F25A70;
+    width: 280px;
+    height: 280px;
+}
+
+.section-project .card-project img {
+    width: 280px;
+    height: 280px;
+    margin-bottom: 20px;
+}
+
+.section-project figcaption {
+    text-align: center;
+    color: #fff;
+    font-family: 'Press Start 2P', sans-serif;
+    font-size: 20px;
+}
