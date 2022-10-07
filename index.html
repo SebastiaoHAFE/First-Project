@@ -25,36 +25,48 @@
     <body>
         <nav class="navbar navbar-expand-lg fixed-top bg-primary-color" id="navbar">
             <div class="container py-3">
-                <a class="navbar-brand" href="#">
-                <span>Sebastião H.A.F.E</span>
+                <a href="#" class="navbar-brand">
+                    <span>Sebastião H.A.F.E</span>
                 </a>
-                <button
-                    class="navbar-toggler" 
-                    type="button" 
-                    data-bs-toggle="collapse" 
-                    data-bs-target="#navbar-items" 
-                    aria-controls="navbar-items" 
-                    aria-expanded="false" 
-                    aria-label="toggle navigation">      
-                    <i class="bi bi-list"></i>
-                </button> 
-                <div class="collapse navbar-collapse" id="navbar-items">
-                    <ul class="navbar-nav me-auto mb-2 mb-lg-0">
-                        <li class="nav-item">
-                            <a href="#" class="nav-link active" aria-current="page">Home</a>
-                        </li>
-                        <li class="nav-item">
-                            <a href="#" class="nav-link">Skllis</a>
-                        </li>
-                        <li class="nav-item">
-                            <a href="#" class="nav-link">Contato</a>
-                        </li>
-                    </ul>
-                </div> 
+                <a href="https://github.com/SebastiaoHAFE/" class="navbar-icon" target="_blank">
+                    <i class="bi bi-github"></i>
+                </a>    
+                <a href="http://api.whatsapp.com/send?1=pt_BR&phone=5512988029594" class="navbar-icon" target="_blank">
+                    <i class="bi bi-whatsapp"></i>
+                </a>
+                <a href="https://www.linkedin.com/in/sebasti%C3%A3o-henrique-albuquerque-fernandes-esperidi%C3%A3o-b7666b209/" class="navbar-icon" target="_blank">
+                    <i class="bi bi-linkedin"></i>
+                </a>
+                <button 
+                class="navbar-toggler" 
+                type="button" 
+                data-bs-toggle="collapse" 
+                data-bs-target="#navbar-items" 
+                aria-controls="navbar-items" 
+                aria-expanded="false" 
+                aria-label="toggle navigation">
+
+                <i class="bi bi-list" id="bi-list"></i>
+                </button>
+            </div>
+            <div class="collapse navbar-collapse" id="navbar-items">
+                <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+                    <li class="nav-item">
+                        <a href="#" class="nav-link active" aria-current="page">Sobre</a>
+                    </li>
+                    <li class="nav-item">
+                        <a href="#" class="nav-link">Skills</a>
+                    </li>
+                    <li class="nav-item">   
+                        <a href="#" class="nav-link">Contatos</a>
+                    </li>
+                </ul>
             </div>
         </nav>
-        <figure>
-            <img class="img" src="img/fhotogimp.jpeg" alt="foto tiao">
-        </figure>
+        <div class="container" id="image">
+            <img src="img/fhotogimp.jpeg" class="image-page" alt="Minha Foto">
+            <h1 class="title">Front-End</h1>
+            <h2 class="subtitle">Developer</h2>
+        </div>
     </body>
 </html>
