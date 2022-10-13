@@ -1,5 +1,7 @@
 * {
     font-family: 'Lato', sans-serif;
+    padding: 0;
+    margin: 0;
 }
 
 body {
@@ -22,29 +24,68 @@ body {
 }
 
 #navbar span {
-    font-size: 30px;
+    font-size: 40px;
     color: #000;
     border-bottom: 1px solid #000;
+    text-shadow: 1px 1px 0 #fff;
 }
 
 #navbar-items a {
     font-size: 20px;
     color: #000;
     margin: 0 1em;
+    text-shadow: 1px 1px 0 #fff;
 }
 
 #navbar-items a:hover {
     color: #7a7a7a;
 }
 
-#image {
-    display: inline-block;
+.titles {
+    background-color: #7a7a7a;
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    width: 100%;
+    height: 150px;
+    justify-content: center;
+    text-align: center;
+    margin-top: 120px;
+    color: #000; 
+    text-shadow: 2px 2px 0 #fff;
+    border-bottom: 2px solid #000;
 }
 
-#image img {
-    margin-top: 20%;
-    margin-left: 70%;
-    width: 350px;
-    height: 350px;
-    border-radius: 50%;
+.titles .title {
+    font-size: 50px;
+}
+
+.titles .subtitle {
+    font-size:50px;
+}
+
+.footer {
+    text-align: center;
+    margin-top: 96px;
+    background-color: #7a7a7a;
+    color:#000;
+    border-bottom: 2px solid #000;
+    border-top: 2px solid #000;
+}
+
+.text-life {
+    color: #fff;
+    background-color: #7a7a7a;
+    margin-top: 100px;
+    border-bottom: 2px solid #000;
+    border-top: 2px solid #000;
+}
+
+.text-title {
+    text-align: center;
+}
+
+.text-life p {
+    text-align: center;
+    font-size: 15px;
 }
