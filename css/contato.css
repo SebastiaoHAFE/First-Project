@@ -1,0 +1,20 @@
+.contato {
+    text-align: center;
+    background-color: #7a7a7a;
+    margin-top: 50px;
+    color: #000;
+    font-size: 30px;
+    border-top: 2px solid #000;
+    border-bottom: 2px solid #000;
+}
+
+.contato h2 {
+    margin-bottom: 40px;
+    text-shadow: 2px 2px 0 #fff;
+}
+
+.contato p {
+    text-align: left;
+    margin-left: 400px;
+}
+ 

@@ -21,6 +21,7 @@ body {
     margin-right: 7%;
     font-size: 30px;
     color:#000; 
+    text-shadow: 2px 2px 0 #fff;
 }
 
 #navbar span {
@@ -74,7 +75,7 @@ body {
 }
 
 .text-life {
-    color: #fff;
+    color: #000;
     background-color: #7a7a7a;
     margin-top: 100px;
     border-bottom: 2px solid #000;
@@ -82,10 +83,12 @@ body {
 }
 
 .text-title {
+    text-shadow: 1px 1px 0 #fff;
     text-align: center;
 }
 
 .text-life p {
-    text-align: center;
+    text-align: left;
     font-size: 15px;
+    margin-left: 10px;
 }
