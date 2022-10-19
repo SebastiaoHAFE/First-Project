@@ -1,5 +1,5 @@
 .icon {
-    background-color: #aca5a5;
+    background-color: #dcd0c0;
     width: 100%;
     display: flex;
     align-items: center;
@@ -20,8 +20,13 @@
     margin-top: 10px;
 }
 
+.icon img {
+    align-items: center;
+    justify-content: center;
+}
+
 h3 {
-    background-color: #aca5a5;
+    background-color: #dcd0c0;
     color: #000;
     font-size:50px;
     text-align: center;

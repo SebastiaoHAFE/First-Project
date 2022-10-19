@@ -1,6 +1,6 @@
 .contato {
     text-align: center;
-    background-color: #aca5a5;
+    background-color: #dcd0c0;
     margin-top: 300px;
     color: #000;
     font-size: 30px;
@@ -8,7 +8,7 @@
     border-bottom: 2px solid #000;
 }
 
-.contato h2 {
+.contato h2 h3 {
     margin-bottom: 40px;
     text-shadow: 2px 2px 0 #fff;
 }
@@ -16,5 +16,6 @@
 .contato p {
     text-align: left;
     margin-left: 400px;
+    margin-top: 5px;
 }
  

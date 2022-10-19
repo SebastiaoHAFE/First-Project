@@ -5,11 +5,11 @@
 }
 
 body {
-    background-color: rgb(255, 153, 0);
+    background-color: #f4f4f4;
 }
 
 #navbar {
-    background-color: #aca5a5;
+    background-color: #c0b283;
     padding-left: 5%;
     padding-right: 10%;
     border-bottom: 2px solid #000;
@@ -42,7 +42,7 @@ body {
 }
 
 .titles {
-    background-color: #aca5a5;
+    background-color: #dcd0c0;
     display: block;
     margin-right: auto;
     margin-left: auto;
@@ -68,7 +68,7 @@ body {
 .footer {
     text-align: center;
     margin-top: 53px;
-    background-color: #aca5a5;
+    background-color: #dcd0c0;
     color:#000;
     border-bottom: 2px solid #000;
     border-top: 2px solid #000;
@@ -76,7 +76,7 @@ body {
 
 .text-life {
     color: #000;
-    background-color: #aca5a5;
+    background-color: #dcd0c0;
     margin-top: 70px;
     border-bottom: 2px solid #000;
     border-top: 2px solid #000;
